@@ -1,4 +1,10 @@
 # Base64-Encoding-Decoding
+Author: Swathi Sridhar(swathisr@usc.edu)
+
+Features:
+1.Base64-Encoding
+2.Base64-Decoding
+3.Hexdump
 
 +-------+
 | BUILD |
