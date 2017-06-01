@@ -13,3 +13,9 @@ to clean use            : 'make clean'
 | BUGS |
 +------+
 None
+
+Commandline Syntax & Program Output
+The commandline syntax for hw1 is as follows:
+    hw1 hexdump [file]
+    hw1 enc-base64 [file]
+    hw1 dec-base64 [file]
